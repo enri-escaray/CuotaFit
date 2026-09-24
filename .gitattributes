@@ -1,0 +1,3 @@
+# brand/ son piezas de marca y redes exportadas desde herramientas de diseño,
+# no código de la app: se excluyen de las estadísticas de lenguajes de GitHub.
+brand/** linguist-detectable=false
